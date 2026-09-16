@@ -1,2 +1,5 @@
 # IDE Folders
 .vscode/
+
+# Build
+target/
